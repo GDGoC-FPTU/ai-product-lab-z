@@ -1,11 +1,8 @@
 # 📄 Báo Cáo Phân Tích Sâu (Deep-Dive Report)
 
-**Tên Nhóm:** VinAI Pioneers  
+**Tên Nhóm:** z
 **Thành viên tham gia:**
-1. **Nguyễn Minh Trí** — MSSV: QE170123
-2. **Trần Hoàng Nam** — MSSV: QE170246
-3. **Phạm Minh Thư** — MSSV: QE170389
-
+1. **Đặng Tiến Quyền* — MSSV: 2A202600896
 ---
 
 ## 🗳️ 1. Quyết định lựa chọn dự án
